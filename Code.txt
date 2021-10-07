@@ -38,7 +38,7 @@ person6 = {
 }
 
 person7 = {
-  "name": "Andrea",
+  "name": "Rubi",
   "age": 32
   "country": "Mexico"
 }
@@ -47,4 +47,10 @@ person8 = {
   "name": "James",
   "age": 36
   "country": "Canada"
+}
+
+person9 = {
+  "name": "Henry",
+  "age": 28
+  "country": "USA"
 }
