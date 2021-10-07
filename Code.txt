@@ -30,3 +30,9 @@ person5 = {
   "age": 25
   "country": "Germany"
 }
+
+person6 = {
+  "name": "Julia",
+  "age": 30
+  "country": "USA"
+}
