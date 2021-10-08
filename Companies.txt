@@ -1,0 +1,13 @@
+def greeting(name):
+  print("From: " + name)
+
+company1 = {
+  "name": "Google",
+  "city": "San Francisco"
+}
+
+company2 = {
+  "name": "ClickUp",
+  "city": "San Diego"
+}
+
